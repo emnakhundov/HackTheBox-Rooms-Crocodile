@@ -11,23 +11,29 @@ nmap -sV -sC -T4 -A  10.129.55.69 -o nmap.txt
 Answer_1 : -sC
 
 Task_2 : What service version is found to be running on port 21?
+
 Answer_2 :  vsftpd 3.0.3
 
 Task_3 : What FTP code is returned to us for the "Anonymous FTP login allowed" message?
+
 Answer_3 : 230
 
 <img width="1657" height="667" alt="Crocodile_2" src="https://github.com/user-attachments/assets/6cb3133f-1017-464c-bff2-3b1890146f3a" />
 
 Task_4 : After connecting to the FTP server using the ftp client, what username do we provide when prompted to log in anonymously?
+
 Answer_4 : anonymous
 
 Task_5 : After connecting to the FTP server anonymously, what command can we use to download the files we find on the FTP server?
+
 Answer_5 : get
 
 Task_6 : What is one of the higher-privilege sounding usernames in 'allowed.userlist' that we download from the FTP server?
+
 Answer_6 : admin
 
 Task_7 : What version of Apache HTTP Server is running on the target host?
+
 Answer_7 : Apache httpd 2.4.41
 
 Task_8 : What switch can we use with Gobuster to specify we are looking for specific filetypes?

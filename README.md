@@ -1,5 +1,7 @@
 # HackTheBox-Rooms-Crocodile
 
+<img width="1568" height="171" alt="Crocodile_6png" src="https://github.com/user-attachments/assets/253833f6-c268-43ef-9ed2-614a618e687e" />
+
 Target IP :   10.129.55.69
 
 Task_1 : What Nmap scanning switch employs the use of default scripts during a scan?
